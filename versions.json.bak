@@ -1,7 +1,7 @@
 {
   "latest_version": "1.01",
   "download_url": "https://github.com/DhanvithVentures/Record_and_Replay_application_releases/releases/download/v1.03/Record_and_Replay.exe",
-  "release_notes": "• Updated release version of Record_and_Replay v1.03\n• Basic functionality implemented",
+  "release_notes": "• Updated version for esp32 test\n• Basic functionality implemented",
   "release_date": "2026-03-31",
   "min_required_version": "1.0"
 }
