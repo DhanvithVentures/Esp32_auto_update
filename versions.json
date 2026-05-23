@@ -1,4 +1,4 @@
 {
   "version": "1.1",
-  "firmware": "https://github.com/DhanvithVentures/Esp32_auto_update/main/R45.ino.bin"
+  "firmware": "https://github.com/DhanvithVentures/Esp32_auto_update/raw/refs/heads/main/R45.ino.bin"
 }
