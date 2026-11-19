@@ -1,4 +1,5 @@
 {
   "version": "1.5u",
-  "firmware": "https://192.168.68.110:8443/fw.bin"
+  "firmware": "https://192.168.68.110:8443/fw.bin",
+  "md5": "a70dc3c395c7d7d3cbd5181494bc2474"
 }
