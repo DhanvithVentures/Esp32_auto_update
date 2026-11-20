@@ -1,5 +1,5 @@
 {
-  "version": "1.5u",
-  "firmware": "https://192.168.68.110:8443/fw.bin",
-  "md5": "d41ee91ff6c95da23e335f47e08368ec"
+  "version": "1.5t",
+  "firmware": "https://raw.githubusercontent.com/DhanvithVentures/Esp32_auto_update/75c23f99c7b2a80300f32f7fba021c65d01c3279/R45.ino.bin",
+  "md5": "915b4dbd5e22764848c9646bce079bfd"
 }
