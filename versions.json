@@ -1,5 +1,5 @@
 {
-  "version": "1.8t",
+  "version": "1.5t2",
   "firmware": "https://raw.githubusercontent.com/DhanvithVentures/Esp32_auto_update/ota-test/R45.ino.bin",
-  "md5": "a7e24240e234847ea99660cbfacf9a53"
+  "md5": "747a045b6f2c30199cea66ac05623219"
 }
