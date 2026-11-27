@@ -1,5 +1,5 @@
 {
-  "version": "BGRM-1.10t",
-  "firmware": "https://raw.githubusercontent.com/DhanvithVentures/Esp32_auto_update/bgrm-test/ESP_Pub_v2p0.ino.bin",
-  "md5": "96b66d961fb614eabc7dbc798e6c50a3"
+  "version": "BGRM-1.11t",
+  "firmware": "https://raw.githubusercontent.com/DhanvithVentures/Esp32_auto_update/bgrm-test/test3j_r45test_wrongboard.bin",
+  "md5": "45543b8d951128bf7030bc8bc9205476"
 }
