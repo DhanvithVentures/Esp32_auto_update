@@ -1,5 +1,5 @@
 {
-  "version": "1.9.2",
+  "version": "1.9.3",
   "firmware": "https://raw.githubusercontent.com/DhanvithVentures/Esp32_auto_update/main/R45.ino.bin",
-  "md5": "be4dfb5453f76a51e91a1ad6db735466"
+  "md5": "35aa605a4c4f93d2a6532429dd7e38a5"
 }
