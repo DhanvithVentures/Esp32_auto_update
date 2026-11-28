@@ -1,5 +1,5 @@
 {
-  "version": "1.11.1b",
-  "firmware": "https://raw.githubusercontent.com/DhanvithVentures/Esp32_auto_update/ota-test/test3j1_r45_bench.bin",
-  "md5": "d7a3edc1c1a710ec8794783f98703dc4"
+  "version": "1.11.1",
+  "firmware": "https://raw.githubusercontent.com/DhanvithVentures/Esp32_auto_update/ota-test/test3j1_r45_release.bin",
+  "md5": "171c666c2c28d7f9e9adb13bcff8863e"
 }
